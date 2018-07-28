@@ -1,14 +1,14 @@
 {
-    "name": "encore/laravel-admin",
+    "name": "WenyXu/laravel-admin",
     "description": "laravel admin",
     "type": "library",
-    "keywords": ["laravel", "admin", "grid", "form"],
-    "homepage": "https://github.com/z-song/laravel-admin",
+    "keywords": ["laravel", "admin"],
+    "homepage": "https://github.com/WenyXu/laravel-admin",
     "license": "MIT",
     "authors": [
         {
-            "name": "zsong",
-            "email": "zosong@126.com"
+            "name": "WenyXu",
+            "email": "wenymedia@gmail.com"
         }
     ],
     "require": {

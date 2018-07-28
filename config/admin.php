@@ -152,6 +152,7 @@ return [
      */
     'version' => '1.5.x-dev',
 
+    'footer'=>'<strong>Powered by <a href="" target="_blank">laravel-admin</a></strong>',
     /*
      * Settings for extensions.
      */
