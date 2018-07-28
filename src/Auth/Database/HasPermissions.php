@@ -20,6 +20,7 @@ trait HasPermissions
         if ($avatar) {
             return Storage::disk(config('admin.upload.disk'))->url($avatar);
         }
+        
         return admin_asset('/vendor/laravel-admin/AdminLTE/dist/img/200_200.jpg');
     }
 
