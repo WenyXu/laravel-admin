@@ -3,7 +3,7 @@
     "description": "laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin"],
-    "homepage": "https://github.com/WenyXu/laravel-admin",
+    "homepage": "https://github.com/weny-xu/laravel-admin",
     "license": "MIT",
     "authors": [
         {

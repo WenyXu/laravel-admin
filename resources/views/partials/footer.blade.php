@@ -5,4 +5,5 @@
         <strong>Version</strong>&nbsp;&nbsp; {!! config('admin.version') !!}
     </div>
     <!-- Default to the left -->
+    {!! config('admin.footer') !!}
 </footer>
