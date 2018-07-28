@@ -131,6 +131,7 @@ class MenuController extends Controller
      */
     protected function iconHelp()
     {
-        return 'For more icons please see <a href="http://fontawesome.io/icons/" target="_blank">http://fontawesome.io/icons/</a>';
+        return '';
+//        return 'For more icons please see <a href="http://fontawesome.io/icons/" target="_blank">http://fontawesome.io/icons/</a>';
     }
 }
