@@ -88,7 +88,7 @@ class AdminTablesSeeder extends Seeder
             [
                 'parent_id' => 2,
                 'order'     => 3,
-                'title'     => '管理用户',
+                'title'     => '用户',
                 'icon'      => 'fa-users',
                 'uri'       => 'auth/users',
             ],
